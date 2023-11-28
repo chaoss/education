@@ -15,7 +15,7 @@ Contributing to this project requires that you to do following:
 
 ## Contributing
 
-To contribute to onboarding course, please follow the guidelines found in our CONTRIBUTING.md(https://github.com/chaoss/education/blob/main/Contributing.md) and our [Code of Conduct](https://github.com/chaoss/.github/blob/main/CODE_OF_CONDUCT.md).   We strongly believe that much of what makes open source so great is the incredible communities it brings together, so we invite you to join us!
+To contribute to onboarding course, please follow the guidelines found in our [CONTRIBUTING.md](https://github.com/chaoss/education/blob/main/Contributing.md) and our [Code of Conduct](https://github.com/chaoss/.github/blob/main/CODE_OF_CONDUCT.md).   We strongly believe that much of what makes open source so great is the incredible communities it brings together, so we invite you to join us!
 
 Maintainers
 
