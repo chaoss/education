@@ -1,17 +1,16 @@
 # Introduction
 
-Welcome to CHAOSS CHAOSS Onboarding Courses. Thank you for your interest.
-The courses here provide guidelines that will help you start up your journey in open source and navigate CHAOSS activities seamlessly.
+Welcome to CHAOSS CHAOSS Onboarding Courses. The courses here provide guidelines that will help you start up your journey in open source and navigate CHAOSS activities seamlessly.
 
 ## Getting Started
 
-Contributing to this project requires that you to do following:
+Thanks for your interest in the onboarding course project. To contribute to this project require that you do following:
 
 *   Record video for the selected topics([Isuess](https://github.com/chaoss/education/issues))
 *   Write Scripts(Video transcription)
 *   Edit recorded videos(Video editing)
-*   Go through the [Contributing.md](https://github.com/chaoss/education#contributing) file first
-    If you are new to open source, we recommend GitHub's excellent guide on ["How to Contribute to Open Source"](https://kcd.im/pull-request). In addition, please feel free to reach out to any of the maintainers if you are struggling; we are here to help you learn.
+*   Go through the [Contributing.md](https://github.com/chaoss/education#contributing) file first.
+*   If you are new to open source, we recommend GitHub's excellent guide on ["How to Contribute to Open Source"](https://kcd.im/pull-request). In addition, please feel free to reach out to any of the maintainers if you are struggling; we are here to help you learn.
 
 ## Contributing
 
