@@ -16,16 +16,17 @@ If you are new to open source, we recommend GitHub's excellent guide on ["How to
 
 To contribute to the onboarding course, please follow the guidelines found in our [CONTRIBUTING.md](https://github.com/chaoss/education/blob/main/Contributing.md) and our [Code of Conduct](https://github.com/chaoss/.github/blob/main/CODE_OF_CONDUCT.md).   We strongly believe that much of what makes open source so great is the incredible communities it brings together, so we invite you to join us!
 
-## Submission of Scritpt/Recorded Video/Edited Videos; 
+## Submission of Script/Recorded Video/Edited Videos; 
 
-To submit yourScritpt/Recorded Video/Edited Videos
+To submit your Script/Recorded Video/Edited Videos
 - Create a PR
 - Link the issue you work on to the PR
 - Add the Script/Recorded Video/Edited Video link. 
-- Finally submit the PR. 
+- Finally, submit the PR. 
 
 
-Maintainers
+
+## Maintainers
 
 *   Elizabeth
 *   Peculiar
