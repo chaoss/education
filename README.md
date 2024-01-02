@@ -22,8 +22,8 @@ To contribute to the onboarding course, please follow the guidelines found in ou
 To submit your Script/Recorded Video/Edited Videos:
 - Add the link of the Script/Recorded Video or Edited Videos to the issue you worked on.
 - If you use CHAOSS Zoom and can't get the link, these are a few things you could do:
-        1. Kindly note the date and time of their recording.
-        2. Add the date and time to the issue and ask the maintainers to help you with the link of your recordings.
+  1. Kindly note the date and time of their recording.
+  2. Add the date and time to the issue and ask the maintainers to help you with the link to your recordings.
 - Assign the issues to the maintainers for review.
 
 
