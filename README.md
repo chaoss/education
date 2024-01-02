@@ -16,22 +16,23 @@ If you are new to open source, we recommend GitHub's excellent guide on ["How to
 
 To contribute to the onboarding course, please follow the guidelines found in our [CONTRIBUTING.md](https://github.com/chaoss/education/blob/main/Contributing.md) and our [Code of Conduct](https://github.com/chaoss/.github/blob/main/CODE_OF_CONDUCT.md).   We strongly believe that much of what makes open source so great is the incredible communities it brings together, so we invite you to join us!
 
-## Submission of Script/Recorded Video/Edited Videos; 
 
-To submit your Script/Recorded Video/Edited Videos
-- Create a PR
-- Link the issue you work on to the PR
-- Add the Script/Recorded Video/Edited Video link. 
-- Finally, submit the PR. 
+## Submission of Script/Recorded Video/Edited Videos 
 
+To submit your Script/Recorded Video/Edited Videos:
+- Add the link of the Script/Recorded Video or Edited Videos to the issue you worked on.
+- If you use CHAOSS Zoom and can't get the link, these are a few things you could do:
+        1. Kindly note the date and time of their recording.
+        2. Add the date and time to the issue and ask the maintainers to help you with the link of your recordings.
+- Assign the issues to the maintainers for review.
 
 
 ## Maintainers
 
-*   Elizabeth
-*   Peculiar
-*   Yiga
+*   [Elizabeth](https://github.com/ElizabethN)
+*   [Peculiar](https://github.com/peculiaruc)
+*   [Yiga](https://github.com/yigakpoa)
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
