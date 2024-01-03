@@ -13,9 +13,9 @@ Here are some general guidelines for contributing to this project. If you are in
 
 - Planning: Define your topic and outline the content you want to cover. We have a list of topics here, but you will be assigned a topic based on your interest.
 - Scripting: Write a script or outline to guide your presentation. [Use this sample guide](https://docs.google.com/document/d/1xl5Mi0YKTF-hr44Wf7TK3Zv5bKARw_eY6PERx2YVr0M/edit) and [this is a template](https://docs.google.com/document/d/1jIee4PRQsjF4_nDBxNOcbAxeQ1WA0w5HKOlRc3wdR34/edit). If you are only recording the video, a script will be provided for you.
-- Creating Slides: If you are creating slides for your presentation, [use this template](https://docs.google.com/presentation/d/1eJDeGemnN39kZuALHHPIKUfEE8Kvnx6yhTestbfXo4c/edit) for a consistent look across our video collection.
+- Creating Slides: If you are creating slides for your presentation, [use this template](https://docs.google.com/presentation/d/1eJDeGemnN39kZuALHHPIKUfEE8Kvnx6yhTestbfXo4c/edit) for a consistent look across our video collection. [Check out this sample](https://docs.google.com/presentation/d/1yRONCzo0hP0xl-K-5ZDmeM_4wX7xHosZcc6dQic1gJ8/preview) before you start
 - Gathering Equipment: Ensure you have a good-quality camera, microphone, and lighting.
 - Setting Up: Choose a quiet, well-lit location with a clean background.
-- Recording: You will use the [CHAOSS Zoom](https://zoom.us/my/chaoss) and the recording will start automatically. Begin speaking, following your script or outline.
+- Recording: You will use the [CHAOSS Zoom](https://zoom.us/my/chaoss) and the recording will start automatically. Begin speaking, following your script or outline. [Watch this sample recorded video](https://zoom.us/rec/share/JAzEpdmirE0vHWNKnvvffH-SXwP1oB1tfKmFkx4lkxFnvstgFTXCEEsHvPKBr4-V.WZ4NAVJeVxAkdnGF) for a guide.
 
 If you have questions or would like to get involved, you are welcome to join our [#education Slack channel](https://chaoss-workspace.slack.com/archives/C05J8JVLMAB). 
