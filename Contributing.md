@@ -12,7 +12,7 @@ Here are some general guidelines for contributing to this project. If you are in
 **Guidelines for video recording:**
 
 - Planning: Define your topic and outline the content you want to cover. We have a list of topics here, but you will be assigned a topic based on your interest.
-- Scripting: Write a script or outline to guide your presentation [using this template](https://docs.google.com/document/d/1jIee4PRQsjF4_nDBxNOcbAxeQ1WA0w5HKOlRc3wdR34/edit). If you are only recording the video, a script will be provided for you.
+- Scripting: Write a script or outline to guide your presentation. [Use this sample guide](https://docs.google.com/document/d/1xl5Mi0YKTF-hr44Wf7TK3Zv5bKARw_eY6PERx2YVr0M/edit) and [this is a template](https://docs.google.com/document/d/1jIee4PRQsjF4_nDBxNOcbAxeQ1WA0w5HKOlRc3wdR34/edit). If you are only recording the video, a script will be provided for you.
 - Creating Slides: If you are creating slides for your presentation, [use this template](https://docs.google.com/presentation/d/1eJDeGemnN39kZuALHHPIKUfEE8Kvnx6yhTestbfXo4c/edit) for a consistent look across our video collection.
 - Gathering Equipment: Ensure you have a good-quality camera, microphone, and lighting.
 - Setting Up: Choose a quiet, well-lit location with a clean background.
