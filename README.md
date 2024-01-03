@@ -26,6 +26,16 @@ To submit your Script/Recorded Video/Edited Videos:
   2. Add the date and time to the issue and ask the maintainers to help you with the link to your recordings.
 - Assign the issues to the maintainers for review.
 
+### Example Materials
+
+We've provided an example to help you understand the process and see what this should look like at every step along the way using the Governance video as the example:
+
+Governance Video Example Documents:
+- [Create Script Issue](https://github.com/chaoss/education/issues/37)
+- [Video Issue](https://github.com/chaoss/education/issues/50)
+- [Script](https://docs.google.com/document/d/1xl5Mi0YKTF-hr44Wf7TK3Zv5bKARw_eY6PERx2YVr0M/preview)
+- [Presentation](https://docs.google.com/presentation/d/1yRONCzo0hP0xl-K-5ZDmeM_4wX7xHosZcc6dQic1gJ8/preview)
+- [Video recording](https://zoom.us/rec/share/JAzEpdmirE0vHWNKnvvffH-SXwP1oB1tfKmFkx4lkxFnvstgFTXCEEsHvPKBr4-V.WZ4NAVJeVxAkdnGF)
 
 ## Maintainers
 
