@@ -1,6 +1,6 @@
 ### Submission"
 
-Thanks for your contribution.
+Thanks for contributing to CHAOSS Onboarding Course.
 Kindly add the title of the issue you worked on here, then create a PR.
 
 *   Example:
