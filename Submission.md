@@ -16,7 +16,10 @@ Kindly add the title of the issue you worked on here, then create a PR.
 
 2.  Course 2: ***Intro to Open Source & GitHub***
     1.  [Script](https://docs.google.com/document/d/1qwVboKEYJRM312MkoJPcu7UjBm-gM9Lye6dagY7j-jQ/edit#heading=h.q0gypueqnu1)
-    2.  [Presentation]()
-    3.  [Video]()
+    2.  Presentation Slide
+    3.  Video
 
-3.  Course 3:
+3.  Course 3: ***Context GROUP***
+    1.  [Script](https://docs.google.com/document/d/1zMHxMU28yJeJSoiM_3ieQ5LCA6gVT-oOeJdpbYILjdQ/edit)
+    2.  [Presentation Slide](https://docs.google.com/presentation/d/15MVlO0bboFia_1TghekRxTDt_1EOu5mk6TsIhcBCDuE/edit#slide=id.g26aba8065f7_0_23) 
+    3.  Video
