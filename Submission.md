@@ -24,4 +24,10 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     2.  [Presentation Slide](https://docs.google.com/presentation/d/15MVlO0bboFia_1TghekRxTDt_1EOu5mk6TsIhcBCDuE/edit#slide=id.g26aba8065f7_0_0)
     3.  Video
       
-4.  Course 4:
+4.  Course 4: ***CHAOSS Working Groups***
+    1.  Script
+    2.  [Presentation Slide](https://docs.google.com/presentation/d/1EmT8ernp-0oSBWgJFwaUs_lnF0af9_x6pFVNBKJt5bk/edit#slide=id.g26d138aa9af_0_10)
+    3.  Video
+       
+5.  Course 5:
+  
