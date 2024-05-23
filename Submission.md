@@ -29,7 +29,7 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     2.  [Presentation Slide](https://docs.google.com/presentation/d/1EmT8ernp-0oSBWgJFwaUs_lnF0af9_x6pFVNBKJt5bk/edit#slide=id.g26d138aa9af_0_10)
     3.  Video
        
-5.  Course 5:
+5.  Course 5: ***Introduction to CHAOSS Metrics***
     1. [Script](https://docs.google.com/document/d/1-rOhnannOvnQBJ3EtRwm-N4NhnE_gl8CfvRPjCxxkEE/edit)
     2. [Presentation](https://docs.google.com/presentation/d/1XvpRYcg4Kv69dSX5Q4mBFlap9S6KuIF4JG19zLQH2lY/edit#slide=id.g2ab5a4dbc5f_0_5)
     3. Video
