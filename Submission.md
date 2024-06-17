@@ -34,6 +34,21 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     2. [Presentation](https://docs.google.com/presentation/d/1XvpRYcg4Kv69dSX5Q4mBFlap9S6KuIF4JG19zLQH2lY/edit#slide=id.g2ab5a4dbc5f_0_5)
     3. Video
         
-7.  Course 6:
-8.   
+6.  Course 6: ***How to Start a Career in Open Source***
+    1. Script - see speaker notes in presentation
+    2. [Presentation](https://docs.google.com/presentation/d/1035T5lpJDnRFTu98piqd7hVkFF230ggFYLjM4LkPfRM/edit?usp=sharing)
+    3. [Video](https://drive.google.com/file/d/1IPAuyLBVl8qLA4W-UV1qoSkyMZ-tFLle/view?usp=drive_link)
+
+7.  Course 7: ***CHAOSS Practitioner Guides***
+    Note: This may be one course or a series of 4 courses. I've split the videos up to be modular with each video containing only one guide. I hope this will make it easier for us to add additional guides in the future.
+    1. Script - see speaker notes in presentation
+    2. [Presentation](https://docs.google.com/presentation/d/1W5TkIXGBX1A8mYcY3aUHEvENK8av26S2kvRpm2WxAMA/edit?usp=drive_link)
+    3. [Video: Introduction](https://drive.google.com/file/d/1IavY6YIxRCs6PR4iLpbJew4fa4mo4XPf/view?usp=drive_link)
+    4. [Video: Contributor Sustainability](https://drive.google.com/file/d/1InxWRVVvxPTkEiUvXfL6MgfghsR9URYu/view?usp=drive_link)
+    5. [Video: Responsiveness](https://drive.google.com/file/d/1Is5LPdwqSUdP9C4RLJejKGQHOjXiowLd/view?usp=drive_link)
+    6. [Video: Organizational Participation](https://drive.google.com/file/d/1IzH7tm14ftuLjO0z79zq6dWycU0nTUI9/view?usp=drive_link)
+
+8.  Course 8:
+
+
   
