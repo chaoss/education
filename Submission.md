@@ -44,7 +44,7 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     1. Script - see speaker notes in presentation
     2. [Presentation](https://docs.google.com/presentation/d/1W5TkIXGBX1A8mYcY3aUHEvENK8av26S2kvRpm2WxAMA/edit?usp=drive_link)
     3. [Video: Introduction](https://drive.google.com/file/d/1IavY6YIxRCs6PR4iLpbJew4fa4mo4XPf/view?usp=drive_link)
-    4. [Video: Contributor Sustainability](https://drive.google.com/file/d/1IavY6YIxRCs6PR4iLpbJew4fa4mo4XPf/view?usp=drive_link)
+    4. [Video: Contributor Sustainability](https://drive.google.com/file/d/1InxWRVVvxPTkEiUvXfL6MgfghsR9URYu/view?usp=drive_link)
     5. [Video: Responsiveness](https://drive.google.com/file/d/1Is5LPdwqSUdP9C4RLJejKGQHOjXiowLd/view?usp=drive_link)
     6. [Video: Organizational Participation](https://drive.google.com/file/d/1IzH7tm14ftuLjO0z79zq6dWycU0nTUI9/view?usp=drive_link)
 
