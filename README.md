@@ -12,9 +12,9 @@ Thanks for your interest in the onboarding course project. There are a few ways 
 
 If you are new to open source, we recommend GitHub's excellent guide on ["How to Contribute to Open Source"](https://kcd.im/pull-request). In addition, please feel free to reach out to any of the maintainers if you are struggling; we are here to help you learn.
 
-## Contributing
+## Contributing to this project
 
-To contribute to the onboarding course, please follow the guidelines found in our [CONTRIBUTING.md](https://github.com/chaoss/education/blob/main/Contributing.md) and our [Code of Conduct](https://github.com/chaoss/.github/blob/main/CODE_OF_CONDUCT.md).   We strongly believe that much of what makes open source so great is the incredible communities it brings together, so we invite you to join us!
+To contribute to the onboarding course, please follow the guidelines found in our [CONTRIBUTING.md](https://github.com/chaoss/education/blob/main/Contributing.md) and our [Code of Conduct](https://github.com/chaoss/.github/blob/main/CODE_OF_CONDUCT.md).   We strongly believe that much of what makes open source so great is the incredible communities it brings together, so we invite you to join us at [CHAOSS Slack Community](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-28p56bayt-67TRjdA4yJWQmUd4hCzULg)
 
 
 ## Submission of Script/Recorded Video/Edited Videos 
