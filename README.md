@@ -20,7 +20,7 @@ To contribute to the onboarding course, please follow the guidelines found in ou
 ## Submission of Script/Recorded Video/Edited Videos 
 
 To submit your Script/Recorded Video/Edited Videos:
-- Add your subnission in the [Submission.md file](https://github.com/chaoss/education/blob/main/Submission.md)
+- Add your submission in the [Submission.md file](https://github.com/chaoss/education/blob/main/Submission.md)
 - Include the link of the Script/Recorded Video or Edited Videos to the issue you worked on and send a PR.
 - If you use CHAOSS Zoom and can't get the link, these are a few things you could do:
   1. Kindly note the date and time of their recording.
