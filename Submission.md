@@ -48,7 +48,10 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     5. [Video: Responsiveness](https://drive.google.com/file/d/1Is5LPdwqSUdP9C4RLJejKGQHOjXiowLd/view?usp=drive_link)
     6. [Video: Organizational Participation](https://drive.google.com/file/d/1IzH7tm14ftuLjO0z79zq6dWycU0nTUI9/view?usp=drive_link)
 
-8.  Course 8:
+8.  Course 8: ***CHAOSS Africa Developer Workshops***
+    1. [Video: Mastering PRs: Strategies for Preventing and Resolving Conflicts](https://www.youtube.com/watch?v=FdM4-O0p6AI&list=PL60k37cxI-HRHmoXfVzKX_U-y6V-5cuer)
+    2. [Video: Best Practices for Getting your PRs Merged](https://www.youtube.com/watch?v=9DpdGVaEMvw&list=PL60k37cxI-HRHmoXfVzKX_U-y6V-5cuer&index=2)
+    
 
 
   
