@@ -49,8 +49,8 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     6. [Video: Organizational Participation](https://drive.google.com/file/d/1IzH7tm14ftuLjO0z79zq6dWycU0nTUI9/view?usp=drive_link)
 
 8.  Course 8: Accessibility in CHAOSS
- 1. [Script](https://docs.google.com/document/d/1-rOhnannOvnQBJ3EtRwm-N4NhnE_gl8CfvRPjCxxkEE/edit)
-    2. [Presentation](https://docs.google.com/presentation/d/1XvpRYcg4Kv69dSX5Q4mBFlap9S6KuIF4JG19zLQH2lY/edit#slide=id.g2ab5a4dbc5f_0_5)
-    3. Video
+   1. [Script](https://docs.google.com/document/d/1-rOhnannOvnQBJ3EtRwm-N4NhnE_gl8CfvRPjCxxkEE/edit)
+   2. [Presentation](https://docs.google.com/presentation/d/1XvpRYcg4Kv69dSX5Q4mBFlap9S6KuIF4JG19zLQH2lY/edit#slide=id.g2ab5a4dbc5f_0_5)
+   3. Video
 
   
