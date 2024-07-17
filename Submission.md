@@ -48,9 +48,13 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     5. [Video: Responsiveness](https://drive.google.com/file/d/1Is5LPdwqSUdP9C4RLJejKGQHOjXiowLd/view?usp=drive_link)
     6. [Video: Organizational Participation](https://drive.google.com/file/d/1IzH7tm14ftuLjO0z79zq6dWycU0nTUI9/view?usp=drive_link)
 
-8.  Course 8: ***CHAOSS Africa Developers Workshop***
+8.  Course 8: Accessibility in CHAOSS
+   1. [Script](https://docs.google.com/document/d/1-rOhnannOvnQBJ3EtRwm-N4NhnE_gl8CfvRPjCxxkEE/edit)
+   2. [Presentation](https://docs.google.com/presentation/d/1XvpRYcg4Kv69dSX5Q4mBFlap9S6KuIF4JG19zLQH2lY/edit#slide=id.g2ab5a4dbc5f_0_5)
+   3. Video
+ 
+9. Course 9: ***CHAOSS Africa Developers Workshop***
     1. [Video: Best Practices for Getting your PRs merged ](https://www.youtube.com/watch?v=9DpdGVaEMvw&list=PL60k37cxI-HRHmoXfVzKX_U-y6V-5cuer&index=3&t=772s)
     2. [Video: Strategies for Preventing and Resolving Conflicts in Your Pull Requests (PRs) ](https://www.youtube.com/watch?v=FdM4-O0p6AI&list=PL60k37cxI-HRHmoXfVzKX_U-y6V-5cuer&index=1&t=556s)
-
 
   
