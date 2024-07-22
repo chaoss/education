@@ -44,6 +44,6 @@ Governance Video Example Documents:
 *   [Peculiar](https://github.com/peculiaruc)
 *   [Yiga](https://github.com/yigakpoa)
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
