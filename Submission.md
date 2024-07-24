@@ -22,7 +22,7 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
 3.  Course 3: ***Context GROUP***
     1.  [Script](https://docs.google.com/document/d/1zMHxMU28yJeJSoiM_3ieQ5LCA6gVT-oOeJdpbYILjdQ/edit)
     2.  [Presentation Slide](https://docs.google.com/presentation/d/15MVlO0bboFia_1TghekRxTDt_1EOu5mk6TsIhcBCDuE/edit#slide=id.g26aba8065f7_0_0)
-    3.  Video
+    3.  [Video](https://zoom.us/rec/share/T54xlqLjwdrSTK14ctcaexZEL6AI-in-046FtAct8ju-IKNvnTfztM-np5VTCsxs.jixC0a68f-WtvdwV)
 
 4.  Course 4: ***CHAOSS Working Groups***
     1.  Script
