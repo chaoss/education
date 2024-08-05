@@ -44,15 +44,13 @@ Governance Video Example Documents:
 *   [Presentation](https://docs.google.com/presentation/d/1yRONCzo0hP0xl-K-5ZDmeM_4wX7xHosZcc6dQic1gJ8/preview)
 *   [Video recording](https://zoom.us/rec/share/JAzEpdmirE0vHWNKnvvffH-SXwP1oB1tfKmFkx4lkxFnvstgFTXCEEsHvPKBr4-V.WZ4NAVJeVxAkdnGF)
 
-### Example Materials
+
+### Video Background
 
 Video Background for your use. Make a choice.
 [![Background 1](https://i.postimg.cc/Ss27zKV2/Video-Background.png)](https://postimg.cc/cgW8p0p0)
 [![Background 2](https://i.postimg.cc/856Mz0PL/Video-Background-Light.png)](https://postimg.cc/bDqs6Lnv)
 
-Sample 2
-[![Edbackground 1a](https://i.postimg.cc/L4kgQfq4/Edbackground-1.png)](https://postimg.cc/9zMfrDts)
-[![Background 2a](https://i.postimg.cc/m2N39J3w/Edbackground1b.png)](https://postimg.cc/dL3TPWxk)
 
 ## Maintainers
 
