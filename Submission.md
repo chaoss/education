@@ -57,3 +57,8 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     1.  [Video: Best Practices for Getting your PRs merged ](https://www.youtube.com/watch?v=9DpdGVaEMvw\&list=PL60k37cxI-HRHmoXfVzKX_U-y6V-5cuer\&index=3\&t=772s)
 
     2.  [Video: Strategies for Preventing and Resolving Conflicts in Your Pull Requests (PRs) ](https://www.youtube.com/watch?v=FdM4-O0p6AI\&list=PL60k37cxI-HRHmoXfVzKX_U-y6V-5cuer\&index=1\&t=556s)
+
+10. Course 8: ***Popular Open-Source Projects***
+    1.  [Script](https://docs.google.com/document/d/1woK0jG9ALkOvJPU5KmNnMDIp879Rdk3wMfe15J52Xh0/edit?usp=sharing)
+    2.  Presentation 
+    3.  Video
