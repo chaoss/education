@@ -27,7 +27,7 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
 4.  Course 4: ***CHAOSS Working Groups***
     1.  Script
     2.  [Presentation Slide](https://docs.google.com/presentation/d/1EmT8ernp-0oSBWgJFwaUs_lnF0af9_x6pFVNBKJt5bk/edit#slide=id.g26d138aa9af_0_10)
-    3.  Video
+    3.  [Video] (https://zoom.us/rec/share/Ud05mpEMQIUnn_t7jZJJ-MRr0rmqn7GlIKP1zG9CYNemvxkQa7skzxnbt0SNjjRi.FYMpVliqxalRE85b)
 
 5.  Course 5: ***Introduction to CHAOSS Metrics***
     1.  [Script](https://docs.google.com/document/d/1-rOhnannOvnQBJ3EtRwm-N4NhnE_gl8CfvRPjCxxkEE/edit)
