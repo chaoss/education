@@ -60,5 +60,10 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
 
 10. Course 8: ***Popular Open-Source Projects***
     1.  [Script](https://docs.google.com/document/d/1woK0jG9ALkOvJPU5KmNnMDIp879Rdk3wMfe15J52Xh0/edit?usp=sharing)
-    2.  Presentation 
+    2.  Presentation
+    3.  Video
+
+11. Course 9: ***Open-source vs Closed-source***
+    1.  [Script](https://docs.google.com/document/d/1bNsNjeDmr7T0e0UrbOKThc3VrjXra1LEjJ4eHKV5SMU/edit)
+    2.  Presentation
     3.  Video
