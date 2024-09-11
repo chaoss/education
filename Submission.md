@@ -63,7 +63,7 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     2.  Presentation
     3.  Video
 
-11. Course 9: ***Open-source vs Closed-source***
+11. Course 9: ***Open-source Software vs Proprietary Software***
     1.  [Script](https://docs.google.com/document/d/1bNsNjeDmr7T0e0UrbOKThc3VrjXra1LEjJ4eHKV5SMU/edit)
     2.  Presentation
     3.  Video
