@@ -25,10 +25,10 @@ To submit your Script/Recorded Video/Edited Videos:
 *   Include the link of the Script/Recorded Video or Edited Videos to the issue you worked on and send a PR.
 
     To send a PR, [Kindly check out this](https://chaoss.community/kb/dco-setup)
-    The hack to send your PR with ease and without any DOC error are as followings:
+   **Here's how to send your PR with ease and avoid DOC errors:**
 
     1.  Add your changes to the Submission.md file
-    2.  Click on New Terminal and add the following git command:
+    2.  After that, click on New Terminal and add the following git command:
         *   git add .
         *   git commit -s -m "add commit message here"
         *   git push --set-update origin (your branch name)
