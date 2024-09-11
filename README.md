@@ -24,7 +24,8 @@ To submit your Script/Recorded Video/Edited Videos:
 
 *   Include the link of the Script/Recorded Video or Edited Videos to the issue you worked on and send a PR.
 
-    To send a PR, [Kindly check out this](https://chaoss.community/kb/dco-setup)
+    To send a PR, [Kindly check out this](https://chaoss.community/kb/dco-setup).
+    
    **Here's how to send your PR with ease and avoid DOC errors:**
 
     1.  Add your changes to the Submission.md file
