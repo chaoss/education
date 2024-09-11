@@ -25,12 +25,19 @@ To submit your Script/Recorded Video/Edited Videos:
 *   Include the link of the Script/Recorded Video or Edited Videos to the issue you worked on and send a PR.
 
     To send a PR, [Kindly check out this](https://chaoss.community/kb/dco-setup)
+    The hack to send your PR with ease and without any DOC error are as followings:
+
+    1.  Add your changes to the Submission.md file
+    2.  Click on New Terminal and add the following git command:
+        *   git add .
+        *   git commit -s -m "add commit message here"
+        *   git push --set-update origin (your branch name)
 
 *   If you use CHAOSS Zoom and can't get the link, these are a few things you could do:
     1.  Kindly note the date and time of their recording.
     2.  Add the date and time to the issue and ask the maintainers to help you with the link to your recordings.
 
-*   Assign the issues to the maintainers for review.
+*   Assign the PR to the maintainers for review.
 
 ### Example Materials
 
@@ -44,7 +51,6 @@ Governance Video Example Documents:
 *   [Presentation](https://docs.google.com/presentation/d/1yRONCzo0hP0xl-K-5ZDmeM_4wX7xHosZcc6dQic1gJ8/preview)
 *   [Video recording](https://zoom.us/rec/share/JAzEpdmirE0vHWNKnvvffH-SXwP1oB1tfKmFkx4lkxFnvstgFTXCEEsHvPKBr4-V.WZ4NAVJeVxAkdnGF)
 
-
 ### Video Background
 
 Download the video background of your chioce from [this drive](https://drive.google.com/drive/folders/10eoK4BuGUcy9p1F4hR0TkMEVO_1I6Fga?usp=drive_link)
@@ -52,7 +58,6 @@ To add the background on Zoom, follow the steps [here](https://support.zoom.com/
 
 [![Background 1](https://i.postimg.cc/Ss27zKV2/Video-Background.png)](https://postimg.cc/cgW8p0p0)
 [![Background 2](https://i.postimg.cc/856Mz0PL/Video-Background-Light.png)](https://postimg.cc/bDqs6Lnv)
-
 
 ## Maintainers
 
