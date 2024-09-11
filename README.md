@@ -32,7 +32,7 @@ To submit your Script/Recorded Video/Edited Videos:
     2.  After that, click on New Terminal and add the following git command:
         *   git add .
         *   git commit -s -m "add commit message here"
-        *   git push --set-update origin (your branch name)
+        *   git push --set-upstream origin (your branch name)
 
 *   If you use CHAOSS Zoom and can't get the link, these are a few things you could do:
     1.  Kindly note the date and time of their recording.
