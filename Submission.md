@@ -60,8 +60,7 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
 
 10. Course 10: ***Popular Open-Source Projects***
     1.  [Script](https://docs.google.com/document/d/1woK0jG9ALkOvJPU5KmNnMDIp879Rdk3wMfe15J52Xh0/edit?usp=sharing)
-
-    2.  [Presentation]  (https://docs.google.com/presentation/d/1Qu0Oek6gaB65Mq6PrU7i-X8blYVorBhgqynrEbG7dA0/edit?usp=sharing)
+    2.  [Presentation](https://docs.google.com/presentation/d/13RjtBzRwZzxzeCGZ0WEn3rGdY9U9eR8PGt3lkM9AEvc/edit?usp=sharing)
     3.  Video
 
 11. Course 11: ***Open-source Software vs Proprietary Software***
