@@ -58,7 +58,14 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
 
     2.  [Video: Strategies for Preventing and Resolving Conflicts in Your Pull Requests (PRs) ](https://www.youtube.com/watch?v=FdM4-O0p6AI\&list=PL60k37cxI-HRHmoXfVzKX_U-y6V-5cuer\&index=1\&t=556s)
 
-10. Course 8: ***Popular Open-Source Projects***
+10. Course 10: ***Popular Open-Source Projects***
     1.  [Script](https://docs.google.com/document/d/1woK0jG9ALkOvJPU5KmNnMDIp879Rdk3wMfe15J52Xh0/edit?usp=sharing)
+
     2.  [Presentation]  (https://docs.google.com/presentation/d/1Qu0Oek6gaB65Mq6PrU7i-X8blYVorBhgqynrEbG7dA0/edit?usp=sharing)
     3.  Video
+
+11. Course 11: ***Open-source Software vs Proprietary Software***
+    1.  [Script](https://docs.google.com/document/d/1bNsNjeDmr7T0e0UrbOKThc3VrjXra1LEjJ4eHKV5SMU/edit)
+    2.  Presentation
+    3.  Video
+
