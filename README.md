@@ -32,7 +32,7 @@ To submit your Script/Recorded Video/Edited Videos:
     2.  After that, click on New Terminal and add the following git command:
         *   git add .
         *   git commit -s -m "add commit message here"
-        *   git push --set-update origin (your branch name)
+        *   git push --set-upstream origin (your branch name)
 
 *   If you use CHAOSS Zoom and can't get the link, these are a few things you could do:
     1.  Kindly note the date and time of their recording.
@@ -54,7 +54,7 @@ Governance Video Example Documents:
 
 ### Video Background
 
-Download the video background of your chioce from [this drive](https://drive.google.com/drive/folders/10eoK4BuGUcy9p1F4hR0TkMEVO_1I6Fga?usp=drive_link)
+Download the video background of your choice from [this drive](https://drive.google.com/drive/folders/10eoK4BuGUcy9p1F4hR0TkMEVO_1I6Fga?usp=drive_link)
 To add the background on Zoom, follow the steps [here](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0060387#h_01FKP1SWKBCV0E8GW22FEYESDH)
 
 [![Background 1](https://i.postimg.cc/Ss27zKV2/Video-Background.png)](https://postimg.cc/cgW8p0p0)
@@ -66,6 +66,6 @@ To add the background on Zoom, follow the steps [here](https://support.zoom.com/
 *   [Peculiar](https://github.com/peculiaruc)
 *   [Yiga](https://github.com/yigakpoa)
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
