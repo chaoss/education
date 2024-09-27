@@ -14,9 +14,9 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     2.  [Presentation](https://docs.google.com/presentation/d/1yRONCzo0hP0xl-K-5ZDmeM_4wX7xHosZcc6dQic1gJ8/preview)
     3.  [Video](https://zoom.us/rec/share/JAzEpdmirE0vHWNKnvvffH-SXwP1oB1tfKmFkx4lkxFnvstgFTXCEEsHvPKBr4-V.WZ4NAVJeVxAkdnGF1)
 
-2.  Course 2: ***Intro to Open Source & GitHub***
-    1.  [Script](https://docs.google.com/document/d/1qwVboKEYJRM312MkoJPcu7UjBm-gM9Lye6dagY7j-jQ/edit#heading=h.q0gypueqnu1)
-    2.  Presentation Slide
+2.  Course 2: ***Intro to Open Source & Collaboration Platforms***
+    1.  [Script](https://docs.google.com/document/d/1fcuRMU5utobzaUEreaEhWDDvJ32nu-PCvMgDrEtXvY0/edit)
+    2.  [Presentation Slide](https://docs.google.com/presentation/d/1Xfcg5Ge9CaI6FJsd2WAnNMSpScyZVvRMrWUnjFYTz78/edit?usp=sharing)
     3.  Video
 
 3.  Course 3: ***Context GROUP***
