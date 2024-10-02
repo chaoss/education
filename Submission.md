@@ -17,7 +17,7 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
 2.  Course 2: ***Intro to Open Source & Collaboration Platforms***
     1.  [Script](https://docs.google.com/document/d/1fcuRMU5utobzaUEreaEhWDDvJ32nu-PCvMgDrEtXvY0/edit)
     2.  [Presentation Slide](https://docs.google.com/presentation/d/1Xfcg5Ge9CaI6FJsd2WAnNMSpScyZVvRMrWUnjFYTz78/edit?usp=sharing)
-    3.  Video
+    3.  [Video](https://zoom.us/rec/share/aeBIx5Tqin2SzRwm7xX1VWebjeMsz2uDsOutv_BjmXCgfiMwKsFO7_UPXUmQXDTm.peQbP-P2BlzxV1Jw)
 
 3.  Course 3: ***Context GROUP***
     1.  [Script](https://docs.google.com/document/d/1zMHxMU28yJeJSoiM_3ieQ5LCA6gVT-oOeJdpbYILjdQ/edit)
