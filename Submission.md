@@ -14,9 +14,9 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     2.  [Presentation](https://docs.google.com/presentation/d/1yRONCzo0hP0xl-K-5ZDmeM_4wX7xHosZcc6dQic1gJ8/preview)
     3.  [Video](https://zoom.us/rec/share/JAzEpdmirE0vHWNKnvvffH-SXwP1oB1tfKmFkx4lkxFnvstgFTXCEEsHvPKBr4-V.WZ4NAVJeVxAkdnGF1)
 
-2.  Course 2: ***Intro to Open Source & GitHub***
-    1.  [Script](https://docs.google.com/document/d/1qwVboKEYJRM312MkoJPcu7UjBm-gM9Lye6dagY7j-jQ/edit#heading=h.q0gypueqnu1)
-    2.  Presentation Slide
+2.  Course 2: ***Intro to Open Source & Collaboration Platforms***
+    1.  [Script](https://docs.google.com/document/d/1fcuRMU5utobzaUEreaEhWDDvJ32nu-PCvMgDrEtXvY0/edit)
+    2.  [Presentation Slide](https://docs.google.com/presentation/d/1Xfcg5Ge9CaI6FJsd2WAnNMSpScyZVvRMrWUnjFYTz78/edit?usp=sharing)
     3.  Video
 
 3.  Course 3: ***Context GROUP***
@@ -25,8 +25,8 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     3.  [Video](https://zoom.us/rec/share/T54xlqLjwdrSTK14ctcaexZEL6AI-in-046FtAct8ju-IKNvnTfztM-np5VTCsxs.jixC0a68f-WtvdwV)
 
 4.  Course 4: ***CHAOSS Working Groups***
-    1.  Script
-    2.  [Presentation Slide](https://docs.google.com/presentation/d/1EmT8ernp-0oSBWgJFwaUs_lnF0af9_x6pFVNBKJt5bk/edit#slide=id.g26d138aa9af_0_10)
+    1.  [Script](https://docs.google.com/document/d/1KZL7HGq3-gWLqYA3XJ9-19BIPkRn4b4okUu-7KiypWA/edit)
+    2.  [Presentation Slide](https://docs.google.com/presentation/d/1X-g2X49Uqr38WHTexcZ864AyICf-2-Xbsd94JA71EiU/edit?usp=sharing)
     3.  Video
 
 5.  Course 5: ***Introduction to CHAOSS Metrics***
@@ -58,7 +58,25 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
 
     2.  [Video: Strategies for Preventing and Resolving Conflicts in Your Pull Requests (PRs) ](https://www.youtube.com/watch?v=FdM4-O0p6AI\&list=PL60k37cxI-HRHmoXfVzKX_U-y6V-5cuer\&index=1\&t=556s)
 
-10. Course 8: ***Popular Open-Source Projects***
+10. Course 10: ***Popular Open-Source Projects***
     1.  [Script](https://docs.google.com/document/d/1woK0jG9ALkOvJPU5KmNnMDIp879Rdk3wMfe15J52Xh0/edit?usp=sharing)
-    2.  [Presentation]  (https://docs.google.com/presentation/d/1Qu0Oek6gaB65Mq6PrU7i-X8blYVorBhgqynrEbG7dA0/edit?usp=sharing)
-    3.  [Vide]  (https://zoom.us/rec/share/0v4vbRG7GA_PR8R0juJXGXqsjjtUfvfy7axwGZzerCe4QiIR7BanfYp7VYj4AKAo.53LHwXb9li6_erel)
+    2.  [Presentation](https://docs.google.com/presentation/d/13RjtBzRwZzxzeCGZ0WEn3rGdY9U9eR8PGt3lkM9AEvc/edit?usp=sharing)
+    3.  [Video](https://zoom.us/rec/share/0v4vbRG7GA_PR8R0juJXGXqsjjtUfvfy7axwGZzerCe4QiIR7BanfYp7VYj4AKAo.53LHwXb9li6_erel)
+
+    
+
+
+11. Course 11: ***Open-source Software vs Proprietary Software***
+    1.  [Script](https://docs.google.com/document/d/1bNsNjeDmr7T0e0UrbOKThc3VrjXra1LEjJ4eHKV5SMU/edit)
+    2.  Presentation
+    3.  Video
+
+12. Course 12: ***Open Source and Security***
+    1.  [Script](https://docs.google.com/document/d/1WdtRIZaKwvkW-4aPK5F2O8fc71WkDCproFMPHFHJbuE/edit?usp=sharing)
+    2.  [Presentation](https://docs.google.com/presentation/d/1Ul0-Q5_1MRAnY_JMejUi_QY6iEpR66PxOhqFzS33U_0/edit?usp=sharing)
+    3.  Video
+
+13. Course 13: ***Add Topic***
+    1.  Script
+    2.  Presentation
+    3.  Video
