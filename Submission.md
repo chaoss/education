@@ -35,13 +35,13 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     3.  Video
 
 6.  Course 6: ***How to Start a Career in Open Source***
-    1.  Script - see speaker notes in presentation
+    1.  Script - see speaker notes in presentation.
     2.  [Presentation](https://docs.google.com/presentation/d/1035T5lpJDnRFTu98piqd7hVkFF230ggFYLjM4LkPfRM/edit?usp=sharing)
     3.  [Video](https://drive.google.com/file/d/1IPAuyLBVl8qLA4W-UV1qoSkyMZ-tFLle/view?usp=drive_link)
 
 7.  Course 7: ***CHAOSS Practitioner Guides***
     Note: This may be one course or a series of 4 courses. I've split the videos up to be modular with each video containing only one guide. I hope this will make it easier for us to add additional guides in the future.
-    1.  Script - see speaker notes in presentation
+    1.  Script - see speaker notes in presentation.
     2.  [Presentation](https://docs.google.com/presentation/d/1W5TkIXGBX1A8mYcY3aUHEvENK8av26S2kvRpm2WxAMA/edit?usp=drive_link)
     3.  [Video: Introduction](https://drive.google.com/file/d/1IavY6YIxRCs6PR4iLpbJew4fa4mo4XPf/view?usp=drive_link)
     4.  [Video: Contributor Sustainability](https://drive.google.com/file/d/1InxWRVVvxPTkEiUvXfL6MgfghsR9URYu/view?usp=drive_link)
@@ -86,7 +86,7 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     2.  [Presentation](https://docs.google.com/presentation/d/1Xk8IMFJKhkcjgrC2L2hQrQDHI46iYC-ECuro5mVapgc/edit#slide=id.g30f3c5d00bc_0_0)
     3.  Video
       
-15. Course 14: ***Add Topic***
+15. Course 15: ***Add Topic***
     1.  Script
     2.  Presentation
     3.  Video
