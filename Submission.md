@@ -86,7 +86,7 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     2.  [Presentation](https://docs.google.com/presentation/d/1Xk8IMFJKhkcjgrC2L2hQrQDHI46iYC-ECuro5mVapgc/edit#slide=id.g30f3c5d00bc_0_0)
     3.  Video
       
-15. Course 15: ***Add Topic***
-    1.  Script
+15. Course 15: ***Open Source in Education***
+    1.  [Script](https://docs.google.com/document/d/1n4hyVelssmNEKrtwnD-bgKbpdKhd2KR4xurpis08pZM/edit?usp=sharing)
     2.  Presentation
     3.  Video
