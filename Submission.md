@@ -86,7 +86,12 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     2.  [Presentation](https://docs.google.com/presentation/d/1Xk8IMFJKhkcjgrC2L2hQrQDHI46iYC-ECuro5mVapgc/edit#slide=id.g30f3c5d00bc_0_0)
     3.  Video
       
-15. Course 15: ***Add Topic***
+15. Course 15: Case Studies
+    1.  [Script](https://docs.google.com/document/d/1nTXMfsO9dnVc5jV26H6aheh9yduCWa4uaLNQ5KIOxb8/edit?tab=t.0)
+    2.  [Presentation](https://docs.google.com/presentation/d/1jg7O9J9rtjMAZX7cD9djrCc5SQXQEGuM4XWUsJouTd0/edit#slide=id.g2fb20b0af91_7_10)
+    3.  Video
+       
+16. Course 16: ***Add Topic***
     1.  Script
     2.  Presentation
     3.  Video
