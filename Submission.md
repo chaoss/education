@@ -76,6 +76,10 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     2.  [Presentation](https://docs.google.com/presentation/d/1Ul0-Q5_1MRAnY_JMejUi_QY6iEpR66PxOhqFzS33U_0/edit?usp=sharing)
     3.  Video
 
+
+13. Course 13: ***Open Source Licensing***
+    1.  [Script] (https://docs.google.com/document/d/17UkQs5wJE9ZDJLySaL9O2bqrRNndztkrF30Yi71iqsU/edit?usp=sharing)
+
 13. Course 13: ***Open Source In Business***
     1.  [Script](https://docs.google.com/document/d/1Sjc-53eIsVrFNBY7ysFMOZd132LVX2jPUFY0D4ZB808/edit?tab=t.0)
     3.  [Presentation](https://docs.google.com/presentation/d/1wa9i_Tnt2ZTnvvYw8nfgQJz6sj8VZOUIzUzzyZinHes/edit?usp=sharing)
