@@ -83,7 +83,7 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
 13. Course 13: ***Open Source In Business***
     1.  [Script](https://docs.google.com/document/d/1Sjc-53eIsVrFNBY7ysFMOZd132LVX2jPUFY0D4ZB808/edit?tab=t.0)
     3.  [Presentation](https://docs.google.com/presentation/d/1wa9i_Tnt2ZTnvvYw8nfgQJz6sj8VZOUIzUzzyZinHes/edit?usp=sharing)
-    4.  Video
+    4.  [Video](https://zoom.us/rec/play/WVl2FVOor2lY89h9R_va_waSwYJQPciGwpNCoVcZ-MOXPTU2DgGoXujBiVO9yj5eHY9_CFhC0pbat8IX.2dUUVfDvsDvGtPbm?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FSR--55pgyGy_PdZltFnZnIGBB0HsjNirbrq7ciAIUE93h7rz20sGvp6NZRtMgCFP.-LbN3YjjnkivFDnE&autoplay=true&startTime=1731768165000)
        
 14. Course 14: ***DEI in Open Source***
     1.  [Script](https://docs.google.com/document/d/1hYrhEI_bGIvUABVa_mhgcKCMIrL6tDTFuhNZaKKFFOA/edit?tab=t.0)
