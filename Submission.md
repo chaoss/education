@@ -79,18 +79,20 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
 
 13. Course 13: ***Open Source Licensing***
     1.  [Script] (https://docs.google.com/document/d/17UkQs5wJE9ZDJLySaL9O2bqrRNndztkrF30Yi71iqsU/edit?usp=sharing)
+    2. [Presentation] (https://docs.google.com/presentation/d/1bU7oZOGr-M1MblkNicyniv2M11jI3qWgDlVmPlLNjOE/edit?usp=sharing)
 
-13. Course 13: ***Open Source In Business***
+
+14. Course 13: ***Open Source In Business***
     1.  [Script](https://docs.google.com/document/d/1Sjc-53eIsVrFNBY7ysFMOZd132LVX2jPUFY0D4ZB808/edit?tab=t.0)
     3.  [Presentation](https://docs.google.com/presentation/d/1wa9i_Tnt2ZTnvvYw8nfgQJz6sj8VZOUIzUzzyZinHes/edit?usp=sharing)
     4.  Video
        
-14. Course 14: ***DEI in Open Source***
+15. Course 14: ***DEI in Open Source***
     1.  [Script](https://docs.google.com/document/d/1hYrhEI_bGIvUABVa_mhgcKCMIrL6tDTFuhNZaKKFFOA/edit?tab=t.0)
     2.  [Presentation](https://docs.google.com/presentation/d/1Xk8IMFJKhkcjgrC2L2hQrQDHI46iYC-ECuro5mVapgc/edit#slide=id.g30f3c5d00bc_0_0)
     3.  Video
       
-15. Course 15: ***Add Topic***
+16. Course 15: ***Add Topic***
     1.  Script
     2.  Presentation
     3.  Video
