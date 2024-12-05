@@ -21,8 +21,8 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
 
 3.  Course 3: ***Context GROUP***
     1.  [Script](https://docs.google.com/document/d/1zMHxMU28yJeJSoiM_3ieQ5LCA6gVT-oOeJdpbYILjdQ/edit)
-    2.  [Presentation Slide](https://docs.google.com/presentation/d/15MVlO0bboFia_1TghekRxTDt_1EOu5mk6TsIhcBCDuE/edit#slide=id.g26aba8065f7_0_0)
-    3.  [Video](https://zoom.us/rec/share/T54xlqLjwdrSTK14ctcaexZEL6AI-in-046FtAct8ju-IKNvnTfztM-np5VTCsxs.jixC0a68f-WtvdwV)
+    2.  [Presentation Slide](https://docs.google.com/presentation/d/1KEG4-MOrnuPWkeg1B_Xe75ovMIlPi33laVcAeZsPFZ8/edit#slide=id.g2fb20b0af91_5_29)
+    3.  [Video]()
 
 4.  Course 4: ***CHAOSS Working Groups***
     1.  [Script](https://docs.google.com/document/d/1KZL7HGq3-gWLqYA3XJ9-19BIPkRn4b4okUu-7KiypWA/edit)
@@ -35,13 +35,13 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     3.  Video
 
 6.  Course 6: ***How to Start a Career in Open Source***
-    1.  Script - see speaker notes in presentation.
+    1.  Script - see speaker notes in the presentation.
     2.  [Presentation](https://docs.google.com/presentation/d/1035T5lpJDnRFTu98piqd7hVkFF230ggFYLjM4LkPfRM/edit?usp=sharing)
     3.  [Video](https://drive.google.com/file/d/1IPAuyLBVl8qLA4W-UV1qoSkyMZ-tFLle/view?usp=drive_link)
 
 7.  Course 7: ***CHAOSS Practitioner Guides***
     Note: This may be one course or a series of 4 courses. I've split the videos up to be modular with each video containing only one guide. I hope this will make it easier for us to add additional guides in the future.
-    1.  Script - see speaker notes in presentation.
+    1.  Script - see speaker notes in the presentation.
     2.  [Presentation](https://docs.google.com/presentation/d/1W5TkIXGBX1A8mYcY3aUHEvENK8av26S2kvRpm2WxAMA/edit?usp=drive_link)
     3.  [Video: Introduction](https://drive.google.com/file/d/1IavY6YIxRCs6PR4iLpbJew4fa4mo4XPf/view?usp=drive_link)
     4.  [Video: Contributor Sustainability](https://drive.google.com/file/d/1InxWRVVvxPTkEiUvXfL6MgfghsR9URYu/view?usp=drive_link)
@@ -75,11 +75,11 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
 12. Course 12: ***Open Source and Security***
     1.  [Script](https://docs.google.com/document/d/1WdtRIZaKwvkW-4aPK5F2O8fc71WkDCproFMPHFHJbuE/edit?usp=sharing)
     2.  [Presentation](https://docs.google.com/presentation/d/1Ul0-Q5_1MRAnY_JMejUi_QY6iEpR66PxOhqFzS33U_0/edit?usp=sharing)
-    3.  Video
+    3.  [Video](https://zoom.us/rec/share/50DjyQwsG8vJAtVbFUquo-9DHCoaedWV18mUTzdROESJL4EWO6bgk9M0BpclegnO.-sczWLGmsHLlO3FB)
 
 
 13. Course 13: ***Open Source Licensing***
-    1.  [Script] (https://docs.google.com/document/d/17UkQs5wJE9ZDJLySaL9O2bqrRNndztkrF30Yi71iqsU/edit?usp=sharing)
+    1.  [Script](https://docs.google.com/document/d/17UkQs5wJE9ZDJLySaL9O2bqrRNndztkrF30Yi71iqsU/edit?usp=sharing)
 
 13. Course 13: ***Open Source In Business***
     1.  [Script](https://docs.google.com/document/d/1Sjc-53eIsVrFNBY7ysFMOZd132LVX2jPUFY0D4ZB808/edit?tab=t.0)
@@ -89,7 +89,7 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
 14. Course 14: ***DEI in Open Source***
     1.  [Script](https://docs.google.com/document/d/1hYrhEI_bGIvUABVa_mhgcKCMIrL6tDTFuhNZaKKFFOA/edit?tab=t.0)
     2.  [Presentation](https://docs.google.com/presentation/d/1Xk8IMFJKhkcjgrC2L2hQrQDHI46iYC-ECuro5mVapgc/edit#slide=id.g30f3c5d00bc_0_0)
-    3.  Video
+    3.  [Video](https://zoom.us/rec/share/C_jq1xzvnFJQ2HTj1aLkXY2eXZi-O60s4hqxrXvmemEkSz76WwN7xcsQcUdQSW3n.Sq4l7ktlJzFgOCpB?startTime=1732293157000)
       
 15. Course 15: ***Add Topic***
     1.  Script
