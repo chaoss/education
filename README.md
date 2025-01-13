@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome to the CHAOSS Onboarding Courses. The courses here provide guidelines that will help you start up your journey in open source and navigate through CHAOSS activities seamlessly.
+Welcome to the CHAOSS Onboarding Courses. These courses provide guidelines that will help you start your journey in open source and seamlessly navigate through CHAOSS activities.
 
 ## Getting Started
 
@@ -10,7 +10,7 @@ Thanks for your interest in the onboarding course project. There are a few ways 
 *   Write Scripts(Video transcription)
 *   Edit recorded videos(Video editing)
 
-If you are new to open source, we recommend GitHub's excellent guide on ["How to Contribute to Open Source"](https://kcd.im/pull-request). In addition, please feel free to reach out to any of the maintainers if you are struggling; we are here to help you learn.
+If you are new to open source, we recommend GitHub's excellent guide on ["How to Contribute to Open Source"](https://kcd.im/pull-request). In addition, please feel free to contact any of the maintainers if you are struggling; we are here to help you learn.
 
 ## Contributing to this project
 
@@ -66,6 +66,6 @@ To add the background on Zoom, follow the steps [here](https://support.zoom.com/
 *   [Peculiar](https://github.com/peculiaruc)
 *   [Yiga](https://github.com/yigakpoa)
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
