@@ -19,7 +19,7 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     2.  [Presentation Slide](https://docs.google.com/presentation/d/1Xfcg5Ge9CaI6FJsd2WAnNMSpScyZVvRMrWUnjFYTz78/edit?usp=sharing)
     3.  [Video](https://zoom.us/rec/share/aeBIx5Tqin2SzRwm7xX1VWebjeMsz2uDsOutv_BjmXCgfiMwKsFO7_UPXUmQXDTm.peQbP-P2BlzxV1Jw)
 
-3.  Course 3: ***Context GROUP***
+3.  Course 3: ***CHAOSS Context GROUP***
     1.  [Script](https://docs.google.com/document/d/1zMHxMU28yJeJSoiM_3ieQ5LCA6gVT-oOeJdpbYILjdQ/edit)
     2.  [Presentation Slide](https://docs.google.com/presentation/d/1KEG4-MOrnuPWkeg1B_Xe75ovMIlPi33laVcAeZsPFZ8/edit#slide=id.g2fb20b0af91_5_29)
     3.  [Video](https://zoom.us/rec/share/3e3GisekYDJGPK35WjJGpy-H2JIAj5h6ZLhCVoMSqk67WbcLkR8VSaS0Jb8TFQId.xDZIb9AAqsAY45iy?startTime=1736522756000)
@@ -27,12 +27,12 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
 4.  Course 4: ***CHAOSS Working Groups***
     1.  [Script](https://docs.google.com/document/d/1KZL7HGq3-gWLqYA3XJ9-19BIPkRn4b4okUu-7KiypWA/edit)
     2.  [Presentation Slide](https://docs.google.com/presentation/d/1X-g2X49Uqr38WHTexcZ864AyICf-2-Xbsd94JA71EiU/edit?usp=sharing)
-    3.  Video
+    3.  [Video](https://zoom.us/rec/share/Hl8izdWGJAl5bP6Z4J-dHz3_lLzseaF9YuUmI56G3WWEyAKj67SjLvQnLpEolO1U.y6pauWQLxtLaMbiA)
 
 5.  Course 5: ***Introduction to CHAOSS Metrics***
     1.  [Script](https://docs.google.com/document/d/1-rOhnannOvnQBJ3EtRwm-N4NhnE_gl8CfvRPjCxxkEE/edit)
     2.  [Presentation](https://docs.google.com/presentation/d/1XvpRYcg4Kv69dSX5Q4mBFlap9S6KuIF4JG19zLQH2lY/edit#slide=id.g2ab5a4dbc5f_0_5)
-    3.  Video
+    3.  [Video](https://zoom.us/rec/share/rbxRTQuEhQdRISPyKJIptVt_i-5-gEvRliRisSMS_SDM56mkGxVO4AIBKGQNZhdB.MwWuX5NCQ5ND5H-k)
 
 6.  Course 6: ***How to Start a Career in Open Source***
     1.  Script - see speaker notes in the presentation.
@@ -64,9 +64,6 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     2.  [Presentation](https://docs.google.com/presentation/d/13RjtBzRwZzxzeCGZ0WEn3rGdY9U9eR8PGt3lkM9AEvc/edit?usp=sharing)
     3.  [Video](https://zoom.us/rec/share/0v4vbRG7GA_PR8R0juJXGXqsjjtUfvfy7axwGZzerCe4QiIR7BanfYp7VYj4AKAo.53LHwXb9li6_erel)
 
-    
-
-
 11. Course 11: ***Open-source Software vs Proprietary Software***
     1.  [Script](https://docs.google.com/document/d/1bNsNjeDmr7T0e0UrbOKThc3VrjXra1LEjJ4eHKV5SMU/edit)
     2.  Presentation
@@ -77,25 +74,31 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     2.  [Presentation](https://docs.google.com/presentation/d/1Ul0-Q5_1MRAnY_JMejUi_QY6iEpR66PxOhqFzS33U_0/edit?usp=sharing)
     3.  [Video](https://zoom.us/rec/share/50DjyQwsG8vJAtVbFUquo-9DHCoaedWV18mUTzdROESJL4EWO6bgk9M0BpclegnO.-sczWLGmsHLlO3FB)
 
-
 13. Course 13: ***Open Source Licensing***
-    1.  [Script] (https://docs.google.com/document/d/17UkQs5wJE9ZDJLySaL9O2bqrRNndztkrF30Yi71iqsU/edit?usp=sharing)
-    2. [Presentation] (https://docs.google.com/presentation/d/1bU7oZOGr-M1MblkNicyniv2M11jI3qWgDlVmPlLNjOE/edit?usp=sharing)
+    1.  \[Script] (https://docs.google.com/document/d/17UkQs5wJE9ZDJLySaL9O2bqrRNndztkrF30Yi71iqsU/edit?usp=sharing)
+    2.  \[Presentation] (https://docs.google.com/presentation/d/1bU7oZOGr-M1MblkNicyniv2M11jI3qWgDlVmPlLNjOE/edit?usp=sharing)
 
-
-
-
-14. Course 13: ***Open Source In Business***
+14. Course 14: ***Open Source In Business***
     1.  [Script](https://docs.google.com/document/d/1Sjc-53eIsVrFNBY7ysFMOZd132LVX2jPUFY0D4ZB808/edit?tab=t.0)
-    3.  [Presentation](https://docs.google.com/presentation/d/1wa9i_Tnt2ZTnvvYw8nfgQJz6sj8VZOUIzUzzyZinHes/edit?usp=sharing)
-    4.  [Video](https://zoom.us/rec/play/WVl2FVOor2lY89h9R_va_waSwYJQPciGwpNCoVcZ-MOXPTU2DgGoXujBiVO9yj5eHY9_CFhC0pbat8IX.2dUUVfDvsDvGtPbm?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FSR--55pgyGy_PdZltFnZnIGBB0HsjNirbrq7ciAIUE93h7rz20sGvp6NZRtMgCFP.-LbN3YjjnkivFDnE&autoplay=true&startTime=1731768165000)
-       
-15. Course 14: ***DEI in Open Source***
+    2.  [Presentation](https://docs.google.com/presentation/d/1wa9i_Tnt2ZTnvvYw8nfgQJz6sj8VZOUIzUzzyZinHes/edit?usp=sharing)
+    3.  [Video](https://zoom.us/rec/play/WVl2FVOor2lY89h9R_va_waSwYJQPciGwpNCoVcZ-MOXPTU2DgGoXujBiVO9yj5eHY9_CFhC0pbat8IX.2dUUVfDvsDvGtPbm?canPlayFromShare=true\&from=share_recording_detail\&continueMode=true\&componentName=rec-play\&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FSR--55pgyGy_PdZltFnZnIGBB0HsjNirbrq7ciAIUE93h7rz20sGvp6NZRtMgCFP.-LbN3YjjnkivFDnE\&autoplay=true\&startTime=1731768165000)
+
+15. Course 15: ***DEI in Open Source***
     1.  [Script](https://docs.google.com/document/d/1hYrhEI_bGIvUABVa_mhgcKCMIrL6tDTFuhNZaKKFFOA/edit?tab=t.0)
     2.  [Presentation](https://docs.google.com/presentation/d/1Xk8IMFJKhkcjgrC2L2hQrQDHI46iYC-ECuro5mVapgc/edit#slide=id.g30f3c5d00bc_0_0)
     3.  [Video](https://zoom.us/rec/share/C_jq1xzvnFJQ2HTj1aLkXY2eXZi-O60s4hqxrXvmemEkSz76WwN7xcsQcUdQSW3n.Sq4l7ktlJzFgOCpB?startTime=1732293157000)
-      
-16. Course 15: ***Add Topic***
+
+16. Course 16: ***Add Topic***
+    1.  Script
+    2.  Presentation
+    3.  Video
+
+17. Course 17: ***Add Topic***
+    1.  Script
+    2.  Presentation
+    3.  Video
+
+18. Course 18: ***Add Topic***
     1.  Script
     2.  Presentation
     3.  Video
