@@ -88,8 +88,8 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     2.  [Presentation](https://docs.google.com/presentation/d/1Xk8IMFJKhkcjgrC2L2hQrQDHI46iYC-ECuro5mVapgc/edit#slide=id.g30f3c5d00bc_0_0)
     3.  [Video](https://zoom.us/rec/share/C_jq1xzvnFJQ2HTj1aLkXY2eXZi-O60s4hqxrXvmemEkSz76WwN7xcsQcUdQSW3n.Sq4l7ktlJzFgOCpB?startTime=1732293157000)
 
-16. Course 16: ***Add Topic***
-    1.  Script
+16. Course 16: ***Process of Contributing to CHAOSS on GitHub***
+    1.  [Script](https://docs.google.com/document/d/1BUfFRQOVCdc2hE13iY0eSMg5Pw-5iYmCjhzYAMMGJsM/edit?usp=sharing)
     2.  Presentation
     3.  Video
 
