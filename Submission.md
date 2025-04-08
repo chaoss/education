@@ -94,8 +94,8 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     2.  [Presentation](https://docs.google.com/presentation/d/1jg7O9J9rtjMAZX7cD9djrCc5SQXQEGuM4XWUsJouTd0/edit#slide=id.g2fb20b0af91_5_45)
     3.  Video
    
-17. Course 17: ***Add Topic***
-    1.  Script
+17. Course 17: ***Process of Contributing to CHAOSS on GitHub***
+    1.  [Script](https://docs.google.com/document/d/1BUfFRQOVCdc2hE13iY0eSMg5Pw-5iYmCjhzYAMMGJsM/edit?usp=sharing)
     2.  Presentation
     3.  Video
 
