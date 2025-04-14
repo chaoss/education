@@ -92,7 +92,7 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
 16. Course 16: Case Studies
     1.  [Script](https://docs.google.com/document/d/1nTXMfsO9dnVc5jV26H6aheh9yduCWa4uaLNQ5KIOxb8/edit?tab=t.0)
     2.  [Presentation](https://docs.google.com/presentation/d/1jg7O9J9rtjMAZX7cD9djrCc5SQXQEGuM4XWUsJouTd0/edit#slide=id.g2fb20b0af91_5_45)
-    3.  Video
+    3.  [Video](https://zoom.us/rec/share/Lhd_XFIi5b3K4WBfbHVOjcmzO65owHJMYbyo0oxGYygmvN99QCl8cNfwTGC-0_DH.IRBKwsTzJBl7ekHC?startTime=1743185537000)
    
 17. Course 17: ***Process of Contributing to CHAOSS on GitHub***
     1.  [Script](https://docs.google.com/document/d/1BUfFRQOVCdc2hE13iY0eSMg5Pw-5iYmCjhzYAMMGJsM/edit?usp=sharing)
