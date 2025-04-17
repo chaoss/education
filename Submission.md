@@ -99,8 +99,8 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     2.  Presentation
     3.  Video
 
-18. Course 18: ***Add Topic***
-    1.  Script
+18. Course 18: ***Open Source in education***
+    1.  [Script](https://docs.google.com/document/d/1n4hyVelssmNEKrtwnD-bgKbpdKhd2KR4xurpis08pZM/edit?usp=sharing)
     2.  Presentation
     3.  Video
        
