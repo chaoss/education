@@ -17,16 +17,13 @@ If you are new to open source, we recommend GitHub's excellent guide on ["How to
 
 
 ## Submission of Script/Recorded Video/Edited Videos
-
 To submit your Script/Recorded Video/Edited Videos:
 
 *   Add your submission in the [Submission.md file](https://github.com/chaoss/education/blob/main/Submission.md)
-
 *   Include the link to the Script/Recorded Video or Edited Videos to the issue you worked on, and send a PR.
 
-    To send a PR, [follow this guide](https://chaoss.community/kb/dco-setup).
- 
-   **Here's how to send your PR with ease using the command line to avoid DOC errors:**
+To send a PR, [follow this guide](https://chaoss.community/kb/dco-setup).
+**How to send your PR with ease using the command line to avoid DOC errors:**
 
     1.  Add your changes to the Submission.md file
     2.  After that, click on New Terminal and add the following git command:
@@ -34,11 +31,11 @@ To submit your Script/Recorded Video/Edited Videos:
         *   git commit -s -m "add commit message here"
         *   git push --set-upstream origin (your branch name)
 
-*   If you use CHAOSS Zoom and can't get the link, here are a few things you could do:
-    1.  Kindly note the date and time of their recording.
+*   If you use CHAOSS Zoom for your recording and couldn't get the link:
+    1.  Note the date and time of their recording.
     2.  Add the date and time to the issue and ask the maintainers to help you with the link to your recordings.
-
 *   Assign the PR to the maintainers for review.
+
 
 ## Example Materials
 
@@ -54,13 +51,17 @@ Governance Video Example Documents:
 
 
 ## CHAOSS Education Working Group
-The CHAOSS Education Working Group was formed to address the need for broader engagement for contributors and to have a central place for follow-up.
 
+The CHAOSS Education Working Group was formed to address the need for broader engagement for contributors and to have a central place for follow-up.
 Objectives:
-- 
+- To ensure consistent interaction, guidance, and review with contributors throughout the three-step process necessary to produce high-quality videos.
+- To develop and maintain comprehensive open source educational resources.
+- To provide support for each contributor in a more collaborative environment.
+- To explore and implement innovative formats for educational content delivery eg Infographics and Visual Summaries, Workshops materials etc.
+- To continuously improve the course creation process based on contributor feedback, lessons learned, and evolving best practices in educational content development.
 
 The meeting calendar link and the minutes of the meeting.
-We strongly believe that much of what makes open source so great is the incredible communities it brings together, so we invite you to join us at [CHAOSS Slack Community](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-28p56bayt-67TRjdA4yJWQmUd4hCzULg)
+We strongly believe that much of what makes open source so great is the incredible communities it brings together, so we invite you to join us at [CHAOSS Slack Community](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-28p56bayt-67TRjdA4yJWQmUd4hCzULg) and the #education channel.
 
 ## Video Background
 
