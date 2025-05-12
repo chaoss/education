@@ -55,7 +55,7 @@ Governance Video Example Documents:
 
 The CHAOSS Education Working Group was formed to address the need for broader engagement for contributors and to have a central place for follow-up.
 <br>
-Objectives:
+***Objectives:***
 - To ensure consistent interaction, guidance, and review with contributors throughout the three-step process necessary to produce high-quality videos.
 - To develop and maintain comprehensive open source educational resources.
 - To provide support for each contributor in a more collaborative environment.
