@@ -13,6 +13,7 @@ Thanks for your interest in this onboarding course project. There are a few ways
 *   Edit recorded videos(Video editing)
 
 To contribute to this onboarding course, please follow the guidelines found in our [CONTRIBUTING.md](https://github.com/chaoss/education/blob/main/Contributing.md) and our [Code of Conduct](https://github.com/chaoss/.github/blob/main/CODE_OF_CONDUCT.md).
+
 If you are new to open source, we recommend GitHub's excellent guide on ["How to Contribute to Open Source"](https://kcd.im/pull-request). In addition, please feel free to contact any of the maintainers if you are struggling; we are here to help you learn.
 
 
@@ -23,7 +24,7 @@ To submit your Script/Recorded Video/Edited Videos:
 *   Include the link to the Script/Recorded Video or Edited Videos to the issue you worked on, and send a PR.
 
 To send a PR, [follow this guide](https://chaoss.community/kb/dco-setup).
-**How to send your PR with ease using the command line to avoid DOC errors:**
+**You can also send your PR with ease using the command line to avoid DOC errors:**
 
     1.  Add your changes to the Submission.md file
     2.  After that, click on New Terminal and add the following git command:
@@ -52,7 +53,7 @@ Governance Video Example Documents:
 
 ## CHAOSS Education Working Group
 
-The CHAOSS Education Working Group was formed to address the need for broader engagement for contributors and to have a central place for follow-up.
+The CHAOSS Education Working Group was formed to address the need for broader engagement for contributors and to have a central place for follow-up.<br>
 Objectives:
 - To ensure consistent interaction, guidance, and review with contributors throughout the three-step process necessary to produce high-quality videos.
 - To develop and maintain comprehensive open source educational resources.
@@ -60,7 +61,7 @@ Objectives:
 - To explore and implement innovative formats for educational content delivery eg Infographics and Visual Summaries, Workshops materials etc.
 - To continuously improve the course creation process based on contributor feedback, lessons learned, and evolving best practices in educational content development.
 
-The meeting calendar link and the minutes of the meeting.
+The working group meeting is on [CHAOSS calendar](https://chaoss.community/chaoss-calendar/).
 We strongly believe that much of what makes open source so great is the incredible communities it brings together, so we invite you to join us at [CHAOSS Slack Community](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-28p56bayt-67TRjdA4yJWQmUd4hCzULg) and the #education channel.
 
 ## Video Background
