@@ -12,12 +12,8 @@ Thanks for your interest in this onboarding course project. There are a few ways
 *   Write Scripts(Video transcription)
 *   Edit recorded videos(Video editing)
 
+To contribute to this onboarding course, please follow the guidelines found in our [CONTRIBUTING.md](https://github.com/chaoss/education/blob/main/Contributing.md) and our [Code of Conduct](https://github.com/chaoss/.github/blob/main/CODE_OF_CONDUCT.md).
 If you are new to open source, we recommend GitHub's excellent guide on ["How to Contribute to Open Source"](https://kcd.im/pull-request). In addition, please feel free to contact any of the maintainers if you are struggling; we are here to help you learn.
-
-
-## Contributing to this project
-
-To contribute to this onboarding course, please follow the guidelines found in our [CONTRIBUTING.md](https://github.com/chaoss/education/blob/main/Contributing.md) and our [Code of Conduct](https://github.com/chaoss/.github/blob/main/CODE_OF_CONDUCT.md).   We strongly believe that much of what makes open source so great is the incredible communities it brings together, so we invite you to join us at [CHAOSS Slack Community](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-28p56bayt-67TRjdA4yJWQmUd4hCzULg)
 
 
 ## Submission of Script/Recorded Video/Edited Videos
@@ -58,7 +54,13 @@ Governance Video Example Documents:
 
 
 ## CHAOSS Education Working Group
+The CHAOSS Education Working Group was formed to address the need for broader engagement for contributors and to have a central place for follow-up.
 
+Objectives:
+- 
+
+The meeting calendar link and the minutes of the meeting.
+We strongly believe that much of what makes open source so great is the incredible communities it brings together, so we invite you to join us at [CHAOSS Slack Community](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-28p56bayt-67TRjdA4yJWQmUd4hCzULg)
 
 ## Video Background
 
