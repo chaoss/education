@@ -79,12 +79,13 @@ To add the background on Zoom, follow the steps [here](https://support.zoom.com/
 *   [Peculiar](https://github.com/peculiaruc)
 *   [Yiga](https://github.com/yigakpoa)
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
-
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## License
 
 See [LICENSE](LICENSE) file.
-
 Copyright © CHAOSS, a Linux Foundation Project
+
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors-)
+
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
