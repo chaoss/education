@@ -69,29 +69,29 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     2.  [Presentation](https://docs.google.com/presentation/d/1Xk8IMFJKhkcjgrC2L2hQrQDHI46iYC-ECuro5mVapgc/edit#slide=id.g30f3c5d00bc_0_0)
     3.  [Video](https://zoom.us/rec/share/C_jq1xzvnFJQ2HTj1aLkXY2eXZi-O60s4hqxrXvmemEkSz76WwN7xcsQcUdQSW3n.Sq4l7ktlJzFgOCpB?startTime=1732293157000)
 
-13. Course 13. ***CHAOSS Africa Developers Workshop***
+13. Course 13: Case Studies
+    1.  [Script](https://docs.google.com/document/d/1nTXMfsO9dnVc5jV26H6aheh9yduCWa4uaLNQ5KIOxb8/edit?tab=t.0)
+    2.  [Presentation](https://docs.google.com/presentation/d/1jg7O9J9rtjMAZX7cD9djrCc5SQXQEGuM4XWUsJouTd0/edit#slide=id.g2fb20b0af91_5_45)
+    3.  [Video](https://zoom.us/rec/share/QNSe_2BIHaNTuPUgotVhIndLxFMVZjSZG_27BLjL1H-wIiI4Z03lsLdmTcWlAKDG.MnM9QVy3JFPvVW9N?startTime=1746293437000)
+
+14. Course 14. ***CHAOSS Africa Developers Workshop***
     1.  [Video: Best Practices for Getting your PRs merged ](https://www.youtube.com/watch?v=9DpdGVaEMvw\&list=PL60k37cxI-HRHmoXfVzKX_U-y6V-5cuer\&index=3\&t=772s)
     2.   2.  [Video: Strategies for Preventing and Resolving Conflicts in Your Pull Requests (PRs) ](https://www.youtube.com/watch?v=FdM4-O0p6AI\&list=PL60k37cxI-HRHmoXfVzKX_U-y6V-5cuer\&index=1\&t=556s)
 
-14. Course 14: ***Open-source Software vs Proprietary Software***
+15. Course 15: ***Open-source Software vs Proprietary Software***
     1.  [Script](https://docs.google.com/document/d/1bNsNjeDmr7T0e0UrbOKThc3VrjXra1LEjJ4eHKV5SMU/edit)
     2.  Presentation
     3.  Video
 
-15. Course 15: ***Open Source Licensing***
+16. Course 16: ***Open Source Licensing***
     1.  [Script](https://docs.google.com/document/d/17UkQs5wJE9ZDJLySaL9O2bqrRNndztkrF30Yi71iqsU/edit?usp=sharing)
     2.  [Presentation](https://docs.google.com/presentation/d/1bU7oZOGr-M1MblkNicyniv2M11jI3qWgDlVmPlLNjOE/edit?usp=sharing)
     3.  Video
 
-16.  Course 16: ***Accessibility in CHAOSS***
+17.  Course 17: ***Accessibility in CHAOSS***
     1.  [Script](https://docs.google.com/document/d/188T3yGG7Oy_JLBcZ6iA8Q_Kyxblc0Gewlaj6ieqTyxI/edit)
     2.  [Presentation](https://docs.google.com/presentation/d/1XvpRYcg4Kv69dSX5Q4mBFlap9S6KuIF4JG19zLQH2lY/edit#slide=id.g2ab5a4dbc5f_0_5)
     3.  Video      
-
-17. Course 17: Case Studies
-    1.  [Script](https://docs.google.com/document/d/1nTXMfsO9dnVc5jV26H6aheh9yduCWa4uaLNQ5KIOxb8/edit?tab=t.0)
-    2.  [Presentation](https://docs.google.com/presentation/d/1jg7O9J9rtjMAZX7cD9djrCc5SQXQEGuM4XWUsJouTd0/edit#slide=id.g2fb20b0af91_5_45)
-    3.  [Video](https://zoom.us/rec/share/QNSe_2BIHaNTuPUgotVhIndLxFMVZjSZG_27BLjL1H-wIiI4Z03lsLdmTcWlAKDG.MnM9QVy3JFPvVW9N?startTime=1746293437000)
    
 18. Course 18: ***Process of Contributing to CHAOSS on GitHub***
     1.  [Script](https://docs.google.com/document/d/1BUfFRQOVCdc2hE13iY0eSMg5Pw-5iYmCjhzYAMMGJsM/edit?usp=sharing)
@@ -103,8 +103,8 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     2.  Presentation
     3.  Video
        
-20. Course 20: ***Add Topic***
-    1.  Script
+20. Course 20: ***Introduction to GrimoirLab***
+    1.  [Script](https://docs.google.com/document/d/1pVWcwHN5bUvXkLgw9zxVSzTuqHGMlnTVX-bayVZLeaI/edit?tab=t.0)
     2.  Presentation
     3.  Video
 
