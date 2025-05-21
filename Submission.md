@@ -105,7 +105,7 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
        
 20. Course 20: ***Introduction to GrimoirLab***
     1.  [Script](https://docs.google.com/document/d/1pVWcwHN5bUvXkLgw9zxVSzTuqHGMlnTVX-bayVZLeaI/edit?tab=t.0)
-    2.  Presentation
+    2.  [Presentation](https://docs.google.com/presentation/d/1sj5zLBbXMu0_PuLqJQR4rpZsKYff9olzjubCw0Lqyjw/edit?slide=id.g2fb20b0af91_5_45#slide=id.g2fb20b0af91_5_45)
     3.  Video
 
 21. Course 22: ***Add Topic***
