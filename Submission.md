@@ -99,8 +99,8 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     3.  Video
 
 19. Course 19: ***Open Source in education***
-    1.  [Script](https://docs.google.com/document/d/1yWrf7u88kZxi5Z7NZ89v4sRbthniJKPg1Wium93E3p4/edit?tab=t.0)
-    2.  Presentation
+    1.  [Script](https://docs.google.com/document/d/1n4hyVelssmNEKrtwnD-bgKbpdKhd2KR4xurpis08pZM/edit?usp=sharing)
+    2.  [Presentation](https://docs.google.com/presentation/d/1MERfBjkD03ew5X4JgegvRxlRaB6pM396nH32Ui9v10A/edit?usp=sharing)
     3.  Video
        
 20. Course 20: ***Introduction to GrimoirLab***
