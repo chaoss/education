@@ -79,37 +79,36 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     1.  [Video: Best Practices for Getting your PRs merged ](https://www.youtube.com/watch?v=9DpdGVaEMvw\&list=PL60k37cxI-HRHmoXfVzKX_U-y6V-5cuer\&index=3\&t=772s)
     2.   2.  [Video: Strategies for Preventing and Resolving Conflicts in Your Pull Requests (PRs) ](https://www.youtube.com/watch?v=FdM4-O0p6AI\&list=PL60k37cxI-HRHmoXfVzKX_U-y6V-5cuer\&index=1\&t=556s)
 
-15. Course 15: ***Open-source Software vs Proprietary Software***
-    1.  [Script](https://docs.google.com/document/d/1bNsNjeDmr7T0e0UrbOKThc3VrjXra1LEjJ4eHKV5SMU/edit)
-    2.  Presentation
-    3.  Video
-
-16. Course 16: ***Open Source Licensing***
+15. Course 15: ***Open Source Licensing***
     1.  [Script](https://docs.google.com/document/d/17UkQs5wJE9ZDJLySaL9O2bqrRNndztkrF30Yi71iqsU/edit?usp=sharing)
     2.  [Presentation](https://docs.google.com/presentation/d/1bU7oZOGr-M1MblkNicyniv2M11jI3qWgDlVmPlLNjOE/edit?usp=sharing)
     3.  Video
 
-17.  Course 17: ***Accessibility in CHAOSS***
+16.  Course 16: ***Accessibility in CHAOSS***
     1.  [Script](https://docs.google.com/document/d/188T3yGG7Oy_JLBcZ6iA8Q_Kyxblc0Gewlaj6ieqTyxI/edit)
     2.  [Presentation](https://docs.google.com/presentation/d/1XvpRYcg4Kv69dSX5Q4mBFlap9S6KuIF4JG19zLQH2lY/edit#slide=id.g2ab5a4dbc5f_0_5)
     3.  Video      
    
-18. Course 18: ***Process of Contributing to CHAOSS on GitHub***
+17. Course 17: ***Process of Contributing to CHAOSS on GitHub***
     1.  [Script](https://docs.google.com/document/d/1BUfFRQOVCdc2hE13iY0eSMg5Pw-5iYmCjhzYAMMGJsM/edit?usp=sharing)
     2.  [Presentation](https://docs.google.com/presentation/d/126nafdW1drSobLo1iLSJ0fDL4nqJbE8g4afP_VTj9vU/edit?usp=sharing)
     3.  Video
 
-19. Course 19: ***Open Source in education***
+18. Course 18: ***Open Source in education***
     1.  [Script](https://docs.google.com/document/d/1n4hyVelssmNEKrtwnD-bgKbpdKhd2KR4xurpis08pZM/edit?usp=sharing)
-    2.  [Presentation](https://docs.google.com/presentation/d/1MERfBjkD03ew5X4JgegvRxlRaB6pM396nH32Ui9v10A/edit?usp=sharing)
-       [b.](https://docs.google.com/presentation/d/1hn2KxjFAe2treLl18kFG6sPU7Zlw5q4UrDFN_1HMjbU/edit?slide=id.g224756f3bb6_1_0#slide=id.g224756f3bb6_1_0)
+    2.  [Presentation](https://docs.google.com/presentation/d/1hn2KxjFAe2treLl18kFG6sPU7Zlw5q4UrDFN_1HMjbU/edit?slide=id.g224756f3bb6_1_0#slide=id.g224756f3bb6_1_0)
     4.  Video
        
-20. Course 20: ***Introduction to GrimoirLab***
+19. Course 19: ***Introduction to GrimoirLab***
     1.  [Script](https://docs.google.com/document/d/1pVWcwHN5bUvXkLgw9zxVSzTuqHGMlnTVX-bayVZLeaI/edit?tab=t.0)
     2.  [Presentation](https://docs.google.com/presentation/d/1sj5zLBbXMu0_PuLqJQR4rpZsKYff9olzjubCw0Lqyjw/edit?slide=id.g2fb20b0af91_5_45#slide=id.g2fb20b0af91_5_45)
     3.  Video
 
+20. Course 20: ***Open-source Software vs Proprietary Software***
+    1.  [Script](https://docs.google.com/document/d/1bNsNjeDmr7T0e0UrbOKThc3VrjXra1LEjJ4eHKV5SMU/edit)
+    2.  Presentation
+    3.  Video
+       
 21. Course 21: ***Add Topic***
     1.  Script
     2.  Presentation
