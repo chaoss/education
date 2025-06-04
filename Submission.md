@@ -89,32 +89,32 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     2.  [Presentation](https://docs.google.com/presentation/d/1XvpRYcg4Kv69dSX5Q4mBFlap9S6KuIF4JG19zLQH2lY/edit#slide=id.g2ab5a4dbc5f_0_5)
     3.  Video      
    
-16. Course 16: ***Process of Contributing to CHAOSS on GitHub***
+17. Course 16: ***Process of Contributing to CHAOSS on GitHub***
     1.  [Script](https://docs.google.com/document/d/1BUfFRQOVCdc2hE13iY0eSMg5Pw-5iYmCjhzYAMMGJsM/edit?usp=sharing)
     2.  [Presentation](https://docs.google.com/presentation/d/126nafdW1drSobLo1iLSJ0fDL4nqJbE8g4afP_VTj9vU/edit?usp=sharing)
     3.  Video
 
-17. Course 17: ***Open Source in education***
+18. Course 17: ***Open Source in education***
     1.  [Script](https://docs.google.com/document/d/1n4hyVelssmNEKrtwnD-bgKbpdKhd2KR4xurpis08pZM/edit?usp=sharing)
     2.  [Presentation](https://docs.google.com/presentation/d/1hn2KxjFAe2treLl18kFG6sPU7Zlw5q4UrDFN_1HMjbU/edit?slide=id.g224756f3bb6_1_0#slide=id.g224756f3bb6_1_0)
     4.  Video
        
-18. Course 18: ***Introduction to GrimoirLab***
+19. Course 18: ***Introduction to GrimoirLab***
     1.  [Script](https://docs.google.com/document/d/1pVWcwHN5bUvXkLgw9zxVSzTuqHGMlnTVX-bayVZLeaI/edit?tab=t.0)
     2.  [Presentation](https://docs.google.com/presentation/d/1sj5zLBbXMu0_PuLqJQR4rpZsKYff9olzjubCw0Lqyjw/edit?slide=id.g2fb20b0af91_5_45#slide=id.g2fb20b0af91_5_45)
     3.  Video
 
-19. Course 19: ***Open-source Software vs Proprietary Software***
+20. Course 19: ***Open-source Software vs Proprietary Software***
     1.  [Script](https://docs.google.com/document/d/1bNsNjeDmr7T0e0UrbOKThc3VrjXra1LEjJ4eHKV5SMU/edit)
     2.  Presentation
     3.  Video
        
-20. Course 20: ***Add Topic***
+21. Course 20: ***Add Topic***
     1.  Script
     2.  Presentation
     3.  Video
    
-21. Course 21: ***Add Topic***
+22. Course 21: ***Add Topic***
     1.  Script
     2.  Presentation
     3.  Video
