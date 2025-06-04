@@ -48,6 +48,7 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     5.  [Video: Responsiveness](https://drive.google.com/file/d/1Is5LPdwqSUdP9C4RLJejKGQHOjXiowLd/view?usp=drive_link)
     6.  [Video: Organizational Participation](https://drive.google.com/file/d/1IzH7tm14ftuLjO0z79zq6dWycU0nTUI9/view?usp=drive_link)
     7.  [Video: Security](https://drive.google.com/file/d/1XaB524Z3XMsX4U4XZh-ORkDwufZyP4dW/view?usp=sharing)
+    8.  [Video: Sunsetting](https://drive.google.com/file/d/131FSOqnAG9BGInWzA3I3j9p-a3sFjY0z/view?usp=drive_link)
 
 9. Course 9: ***Popular Open-Source Projects***
     1.  [Script](https://docs.google.com/document/d/1woK0jG9ALkOvJPU5KmNnMDIp879Rdk3wMfe15J52Xh0/edit?usp=sharing)
