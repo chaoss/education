@@ -75,8 +75,8 @@ To add the background on Zoom, follow the steps [here](https://support.zoom.com/
 
 ## Maintainers
 
-*   [Elizabeth](https://github.com/ElizabethN)
 *   [Peculiar](https://github.com/peculiaruc)
+*   [Elizabeth](https://github.com/ElizabethN)
 *   [Yiga](https://github.com/yigakpoa)
 
 
