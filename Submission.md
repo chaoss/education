@@ -73,7 +73,7 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
 12. Course 12: Case Studies
     1.  [Script](https://docs.google.com/document/d/1nTXMfsO9dnVc5jV26H6aheh9yduCWa4uaLNQ5KIOxb8/edit?tab=t.0)
     2.  [Presentation](https://docs.google.com/presentation/d/1jg7O9J9rtjMAZX7cD9djrCc5SQXQEGuM4XWUsJouTd0/edit#slide=id.g2fb20b0af91_5_45)
-    3.  [Video](https://zoom.us/rec/share/QNSe_2BIHaNTuPUgotVhIndLxFMVZjSZG_27BLjL1H-wIiI4Z03lsLdmTcWlAKDG.MnM9QVy3JFPvVW9N?startTime=1746293437000)
+    3.  [Video](https://zoom.us/rec/share/NonRE6jCOdafmuUciDxA6LDruDu7182UmxIlYN9ZReWIbgm0qOhMwqyXFVniZ_cD.8H3RL7R7opMRdXn4?startTime=1749924334000)
 
 13. Course 13. ***CHAOSS Africa Developers Workshop***
     1.  [Video: Best Practices for Getting your PRs merged ](https://www.youtube.com/watch?v=9DpdGVaEMvw\&list=PL60k37cxI-HRHmoXfVzKX_U-y6V-5cuer\&index=3\&t=772s)
