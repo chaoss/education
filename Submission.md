@@ -97,7 +97,7 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
 17. Course 17: ***Open Source in education***
     1.  [Script](https://docs.google.com/document/d/1n4hyVelssmNEKrtwnD-bgKbpdKhd2KR4xurpis08pZM/edit?usp=sharing)
     2.  [Presentation](https://docs.google.com/presentation/d/1hn2KxjFAe2treLl18kFG6sPU7Zlw5q4UrDFN_1HMjbU/edit?slide=id.g224756f3bb6_1_0#slide=id.g224756f3bb6_1_0)
-    4.  Video
+    4.  [Video](https://zoom.us/rec/share/wMCxwBEwhhsl0Skk0QRN7SKh5QbPrAX5NMQB5UtPpRaZpQ7OnCUCLRA_GzxJApN5.vAQXWeaopdHG5Tdr?startTime=1749905327000)
        
 18. Course 18: ***Introduction to GrimoirLab***
     1.  [Script](https://docs.google.com/document/d/1pVWcwHN5bUvXkLgw9zxVSzTuqHGMlnTVX-bayVZLeaI/edit?tab=t.0)
