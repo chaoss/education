@@ -82,7 +82,7 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
 14. Course 14: ***Open Source Licensing***
     1.  [Script](https://docs.google.com/document/d/17UkQs5wJE9ZDJLySaL9O2bqrRNndztkrF30Yi71iqsU/edit?usp=sharing)
     2.  [Presentation](https://docs.google.com/presentation/d/1bU7oZOGr-M1MblkNicyniv2M11jI3qWgDlVmPlLNjOE/edit?usp=sharing)
-    3.  Video(https://zoom.us/rec/share/KJ9aW0qVWoUx4Pz4vcq_AmT9kSRptsDGY9JYxABPI9mkwCRwd71Q1zLFdW5zsLxM.vacim7vChaoy5tAq?startTime=1750010489000)
+    3.  [Video](https://zoom.us/rec/share/KJ9aW0qVWoUx4Pz4vcq_AmT9kSRptsDGY9JYxABPI9mkwCRwd71Q1zLFdW5zsLxM.vacim7vChaoy5tAq?startTime=1750010489000)
 
 15. Course 15: ***Accessibility in CHAOSS***
     1.  [Script](https://docs.google.com/document/d/188T3yGG7Oy_JLBcZ6iA8Q_Kyxblc0Gewlaj6ieqTyxI/edit)
