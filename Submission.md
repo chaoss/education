@@ -109,7 +109,7 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     2.  Presentation
     3.  Video
        
-20. Course 20: ***Add Topic***
+20. Course 20: ***Design in Open Source***
     1.  Script
     2.  Presentation
     3.  Video
