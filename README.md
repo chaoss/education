@@ -8,6 +8,7 @@ Welcome to the CHAOSS Onboarding Courses. These courses provide guidelines to he
 
 Thanks for your interest in this onboarding course project. There are a few ways to contribute to this project:
 
+*   Suggest a Topic (Contact amaintainer)
 *   Record video for the selected topics([Issues](https://github.com/chaoss/education/issues))
 *   Write Scripts(Video transcription)
 *   Edit recorded videos(Video editing)
