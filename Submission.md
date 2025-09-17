@@ -110,8 +110,8 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     2.  Presentation
     3.  Video
        
-20. Course 20: ***Design in Open Source***
-    1.  Script
+20. Course 20: ***Open Source in the Moon***
+    1.  [Script](https://docs.google.com/document/d/1bNsNjeDmr7T0e0UrbOKThc3VrjXra1LEjJ4eHKV5SMU/edit)
     2.  Presentation
     3.  Video
    
