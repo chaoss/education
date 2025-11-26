@@ -51,6 +51,7 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     8.  [Video: Sunsetting](https://drive.google.com/file/d/131FSOqnAG9BGInWzA3I3j9p-a3sFjY0z/view?usp=drive_link)
     9.  [Video: Demonstrating Organizational Value](https://zoom.us/rec/play/U9666I1WPAXrMzrVcECVT4uHvTPzlPF8G7T41VBGoOIgq96NXqhiYildTbNIvQO6HjuWOEvHvRl-3T0m.cLXwXyo2-W7nnCaa?autoplay=true&startTime=1756379444000)
     10.  [Video: Diverse Leadership](https://zoom.us/rec/play/g4Gk7654fXXU-xBWr2GjKGOyo5K7xKt9_zlg3gQKeDMJgLs-aGNwgWMjpOgevo0eM0ua7EJCRoTxlUIG.e98PYWQ_9-r1pmYO?autoplay=true&startTime=1761048139000)
+    11. [Video: Assessing Viability](https://drive.google.com/file/d/1NsWw2qnir93_VicoNs3rewcTqQM7IgXe/view?usp=drive_link)
 
 8. Course 8: ***Popular Open-Source Projects***
     1.  [Script](https://docs.google.com/document/d/1woK0jG9ALkOvJPU5KmNnMDIp879Rdk3wMfe15J52Xh0/edit?usp=sharing)
