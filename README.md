@@ -60,11 +60,16 @@ The CHAOSS Education Working Group was formed to address the need for broader en
 - To ensure consistent interaction, guidance, and review with contributors throughout the three-step process necessary to produce high-quality videos.
 - To develop and maintain comprehensive open source educational resources.
 - To provide support for each contributor in a more collaborative environment.
-- To explore and implement innovative formats for educational content delivery eg Infographics and Visual Summaries, Workshops materials etc.
+- To explore and implement innovative formats for educational content delivery eg Infographics and Visual Summaries, Workshop materials, etc.
 - To continuously improve the course creation process based on contributor feedback, lessons learned, and evolving best practices in educational content development.
 
 The working group meeting is on [CHAOSS calendar](https://chaoss.community/chaoss-calendar/).
 We strongly believe that much of what makes open source so great is the incredible communities it brings together, so we invite you to join us at [CHAOSS Slack Community](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-28p56bayt-67TRjdA4yJWQmUd4hCzULg) and the #education channel.
+
+## CHAOSS Education Resources
+- [Moodle Platform](https://chaoss.moodlecloud.com/)
+- [CHAOSS Website](https://chaoss.community/chaoss-education/)
+- [CHAOSS Blog](https://chaoss.community/chaoss-education-project/)
 
 ## Video Background
 
