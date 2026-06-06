@@ -93,7 +93,7 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     3.  Video      
    
 16. Course 16: ***Process of Contributing to CHAOSS on GitHub***
-    1.  [Script](https://docs.google.com/document/d/1BUfFRQOVCdc2hE13iY0eSMg5Pw-5iYmCjhzYAMMGJsM/edit?usp=sharing)
+    1.  [Script](https://docs.google.com/document/d/1WDAFm-TMY928ep2zBYmdDQBNDrfqSshgWmFy1sbSSE8/edit?tab=t.0)
     2.  [Presentation](https://docs.google.com/presentation/d/126nafdW1drSobLo1iLSJ0fDL4nqJbE8g4afP_VTj9vU/edit?usp=sharing)
     3.  Video
 
