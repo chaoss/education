@@ -92,6 +92,6 @@ See [LICENSE](LICENSE) file.
 Copyright © CHAOSS, a Linux Foundation Project
 
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-18-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors-)
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
