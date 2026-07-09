@@ -115,7 +115,7 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
 20. Course 20: ***CHAOSS Bot***
     1.  [Script](https://docs.google.com/document/d/1pr1Yxq1SixmwYH8Xj4hYzPDFS0O2XatFJ6j8vPM_vt0/edit?tab=t.0)
     2.  [Presentation](https://docs.google.com/presentation/d/1jWAL53-_sYIO_J2jWaXjFkd0mENIQi8X8vkBna0U6Xg/edit?slide=id.g2fb20b0af91_5_45#slide=id.g2fb20b0af91_5_45)
-    3.  Video
+    3.  [Video](https://zoom.us/rec/play/XIAGvWep-cguY4STsWJGKB3rRKA7hFfd3fTKVJ_gMv-zTmaMQJkbDM4_q_dsHFy3v_o9Hgv-hpWSBh3k.o6HPFHSWjBXHW7v0?accessLevel=meeting&canPlayFromShare=true&from=my_recording&startTime=1764256123000&oldStyle=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2Fjx1KIN9Phu379jpsIlNFlsyiDnTAiiXCFtvWolfybecSv56jTukoTPg1YPm77mY9.REBvPqXT-pZAzuOm%3FstartTime%3D1764256123000)
 
 21. Course 21: ***Open Source for Non-Profitsc***
     1.  Script
