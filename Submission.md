@@ -116,12 +116,22 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     1.  [Script](https://docs.google.com/document/d/1pr1Yxq1SixmwYH8Xj4hYzPDFS0O2XatFJ6j8vPM_vt0/edit?tab=t.0)
     2.  [Presentation](https://docs.google.com/presentation/d/1jWAL53-_sYIO_J2jWaXjFkd0mENIQi8X8vkBna0U6Xg/edit?slide=id.g2fb20b0af91_5_45#slide=id.g2fb20b0af91_5_45)
     3.  Video
-   
-21. Course 21: ***Documentation in Open Source***
+
+21. Course 21: ***Open Source for Non-Profitsc***
     1.  Script
     2.  Presentation
     3.  Video
+    4. 
+22. Course 22: ***Documentation in Open Source***
+    1.  [Script](https://docs.google.com/document/d/1Y-664nRZHUsqq66xgNleUFsD2FaFZD925WB3rd99Urc/edit?tab=t.0)
+    2.  Presentation
+    3.  Video 
 
+21. Course 21: ***Open Source Communication***
+    1.  [Script](https://docs.google.com/document/d/1dwq9TjbeXqzu0b4UD73mJXzfW9vFUU19vaFsyk55ri0/edit?tab=t.0)
+    2.  Presentation
+    3.  Video
+       
 21. Course 21: ***Add Topic***
     1.  Script
     2.  Presentation
