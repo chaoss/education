@@ -92,7 +92,7 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     2.  [Presentation](https://docs.google.com/presentation/d/1XvpRYcg4Kv69dSX5Q4mBFlap9S6KuIF4JG19zLQH2lY/edit#slide=id.g2ab5a4dbc5f_0_5)
     3.  Video      
    
-16. Course 16: ***Process of Contributing to CHAOSS on GitHub***
+16. Course 16: ***How to navigate the CHAOSS community (Slack, GH, Meetings/call)***
     1.  [Script](https://docs.google.com/document/d/1WDAFm-TMY928ep2zBYmdDQBNDrfqSshgWmFy1sbSSE8/edit?tab=t.0)
     2.  [Presentation](https://docs.google.com/presentation/d/126nafdW1drSobLo1iLSJ0fDL4nqJbE8g4afP_VTj9vU/edit?usp=sharing)
     3.  Video
@@ -127,12 +127,12 @@ Kindly add the title of the issue you worked on here, then create a PR. Make a c
     2.  Presentation
     3.  Video 
 
-21. Course 21: ***Open Source Communication***
+23. Course 23: ***Open Source Communication***
     1.  [Script](https://docs.google.com/document/d/1dwq9TjbeXqzu0b4UD73mJXzfW9vFUU19vaFsyk55ri0/edit?tab=t.0)
     2.  Presentation
     3.  Video
        
-21. Course 21: ***Add Topic***
+24. Course 24: ***Add Topic***
     1.  Script
     2.  Presentation
     3.  Video
